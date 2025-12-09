@@ -1,0 +1,44 @@
+[Problème] Plus d'eau chaude
+[Diagnostic] L'absence d'eau chaude peut venir du chauffe-eau (électrique ou gaz), d'un disjoncteur qui a sauté, d'une panne de chaudière ou d'une coupure générale.
+[Actions immédiates]
+1. Vérifier si l'eau froide coule normalement.
+2. Vérifier le tableau électrique : voir si le disjoncteur du chauffe-eau a sauté, le réarmer si besoin.
+3. Regarder si un voyant d'alarme est allumé sur le chauffe-eau/chaudière.
+4. Si la panne persiste, prévenir le propriétaire ou le gestionnaire.
+[Urgence] Moyenne : à traiter rapidement mais pas vital dans l'heure.
+
+[Problème] Fuite d'eau (plafond, mur, sol)
+[Diagnostic] Une fuite peut venir d'un joint défectueux, d'un tuyau percé, d'un appareil (machine à laver, lave-vaisselle) ou d'une infiltration depuis un autre logement.
+[Actions immédiates]
+1. Si possible, couper l'arrivée d'eau générale.
+2. Éponger l'eau pour limiter les dégâts.
+3. Faire des photos pour preuve.
+4. Prévenir immédiatement le propriétaire, le gestionnaire ou le syndic.
+[Urgence] Élevée : à traiter au plus vite pour éviter des dégâts importants.
+
+[Problème] Serrure qui ferme mal ou plus du tout
+[Diagnostic] La clé ou le cylindre peuvent être usés, encrassés, ou la porte peut être voilée.
+[Actions immédiates]
+1. Essayer doucement sans forcer pour ne pas casser la clé.
+2. Mettre un peu de lubrifiant spécial serrure (pas d'huile de cuisine).
+3. Si la porte ne ferme pas, rester sur place si possible pour des raisons de sécurité.
+4. Contacter le propriétaire ou le service d'assistance indiqué dans le bail.
+[Urgence] Élevée si le logement ne peut plus être sécurisé.
+
+[Problème] Nuisances sonores (voisins bruyants)
+[Diagnostic] Bruits répétés (musique, soirées, pas lourds, travaux) à des heures tardives ou très tôt.
+[Actions immédiates]
+1. Noter les jours et heures où le bruit dérange.
+2. Essayer un premier contact cordial avec le voisin pour expliquer la gêne.
+3. Si cela continue, prévenir le propriétaire ou le gestionnaire.
+4. En dernier recours, se renseigner sur les démarches possibles auprès de la mairie ou de la police municipale.
+[Urgence] Faible mais important pour le confort de vie.
+
+[Problème] Moisissures sur les murs ou plafonds
+[Diagnostic] Souvent liées à un problème d'humidité (ventilation insuffisante, infiltration, pont thermique).
+[Actions immédiates]
+1. Aérer régulièrement le logement (10-15 minutes, plusieurs fois par jour).
+2. Éviter de sécher le linge dans les pièces mal ventilées.
+3. Nettoyer délicatement les zones légères de moisissures avec un produit adapté.
+4. Signaler le problème au propriétaire ou au gestionnaire pour vérifier l’origine (ventilation, infiltrations, etc.).
+[Urgence] Moyenne : important pour la santé si le problème dure.
