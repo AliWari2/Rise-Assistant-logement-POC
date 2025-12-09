@@ -52,7 +52,7 @@ GROQ_API_KEY=votre_cle_ici
 5️⃣ Lancer l’application
 streamlit run app.py
 L'application sera accessible à l’adresse :
-➡️ http://localhost:8501
+➡️ https://rise-assistant.streamlit.app
 
 🎨 Design & Expérience Utilisateur
 L'interface a été pensée pour être :
